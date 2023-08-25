@@ -1,9 +1,63 @@
-<mxfile host="app.diagrams.net" modified="2023-08-25T16:07:48.610Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" version="21.1.8" etag="3ZfdItUpRlnyEPlLEpUU" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-25T16:18:32.436Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="4H6zZqDGSSFd3gcOX6xU" version="21.1.8" type="github">
   <diagram name="第 1 页" id="OB7axVTYHnzdXGSU8Zxg">
-    <mxGraphModel>
+    <mxGraphModel dx="1861" dy="1081" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Jip9PdXp8c9kjGd635my-21" value="t" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFD1EB;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="290" width="830" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="Jip9PdXp8c9kjGd635my-10" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="20" y="490" width="730" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jip9PdXp8c9kjGd635my-4" value="营销" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0AFFDE;" vertex="1" parent="Jip9PdXp8c9kjGd635my-10">
+          <mxGeometry width="182.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jip9PdXp8c9kjGd635my-5" value="账务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6CE6DD;" vertex="1" parent="Jip9PdXp8c9kjGd635my-10">
+          <mxGeometry x="182.5" width="182.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jip9PdXp8c9kjGd635my-6" value="会员" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#02A196;" vertex="1" parent="Jip9PdXp8c9kjGd635my-10">
+          <mxGeometry x="365" width="182.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jip9PdXp8c9kjGd635my-7" value="业务工作台" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#046153;" vertex="1" parent="Jip9PdXp8c9kjGd635my-10">
+          <mxGeometry x="547.5" width="182.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jip9PdXp8c9kjGd635my-11" value="" style="group;fillColor=#FF408C;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-10" y="560" width="800" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jip9PdXp8c9kjGd635my-2" value="安全" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#FF5CB8;" vertex="1" parent="Jip9PdXp8c9kjGd635my-11">
+          <mxGeometry width="400.00000000000006" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jip9PdXp8c9kjGd635my-3" value="系统通用设计" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#FF5E8F;" vertex="1" parent="Jip9PdXp8c9kjGd635my-11">
+          <mxGeometry x="400.00000000000006" width="400.00000000000006" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jip9PdXp8c9kjGd635my-12" value="积分" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#7BFF42;" vertex="1" parent="1">
+          <mxGeometry x="414" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jip9PdXp8c9kjGd635my-13" value="裂变分享" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFD966;" vertex="1" parent="1">
+          <mxGeometry x="50" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jip9PdXp8c9kjGd635my-14" value="代理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFD966;" vertex="1" parent="1">
+          <mxGeometry x="50" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jip9PdXp8c9kjGd635my-16" value="收退款" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3B6FFF;" vertex="1" parent="1">
+          <mxGeometry x="230" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jip9PdXp8c9kjGd635my-17" value="财务统计" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3B6FFF;" vertex="1" parent="1">
+          <mxGeometry x="230" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jip9PdXp8c9kjGd635my-19" value="会员等级" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#7BFF42;" vertex="1" parent="1">
+          <mxGeometry x="414" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jip9PdXp8c9kjGd635my-20" value="开发式工作台，可以后期插入任务业务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF6F1C;" vertex="1" parent="1">
+          <mxGeometry x="599" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jip9PdXp8c9kjGd635my-22" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="530" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jip9PdXp8c9kjGd635my-23" value="通用系统" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry y="310" width="80" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
